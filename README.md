@@ -33,10 +33,6 @@ import MobileMagicScrollReact from "@banyinbanying//mobile-magic-scroll-react";
 
 ```
 
-### 示例图片
-
-![image](https://github.com/zhaochengxian/mobile-magic-scroll-react/blob/72b1774fdd64c1496b0f50d53f6940508f5c8090/example/assets/1.png)
-
 ### Props
 
 The component provides the following variables

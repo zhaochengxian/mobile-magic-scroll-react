@@ -39,16 +39,16 @@ The component provides the following variables
 
 | Name | Type | Default Value | Description | 是否必填 |
 | ---- | ---- | ------------- | ----------- | -------- |
-| pullDownText | Array | 下拉刷新 | --- | |
+| pullDownText | string | 下拉刷新 | --- | |
 | pullDownSuccessText | string | 刷新成功 | -- | |
 | pullUpText | String | 上拉加载更多 | -- | |
 | loadingText | String | 加载中... | 加载过程中的文字提示 | |
 | finishedText | String | - | 部分选中的 icon,png | |
 | height | String | 100vh | 滚动区域的高度 | |
 | heightUnit | String | vh | 滚动度高度单位 | |
-| isObserveImage | number | 500 | 是否开启自动计算图片宽高 | |
-| isPerformance | enum 'primary' , 'danger' , 'default' | 'default' | 如果数据比较多，无限滚动过程中永远展示最新的 30 条数据，以优化性能 | |
-| finished | function | - | 是否是最后一页 | 是 |
+| isObserveImage | boolean | false | 是否开启自动计算图片宽高 | |
+| isPerformance | boolean | false | 如果数据比较多，无限滚动过程中永远展示最新的 30 条数据，以优化性能 | |
+| finished | boolean | false | 是否是最后一页 | 是 |
 | onLoad | function | - | 调取数据接口 | 是 |
 
 ### data json format

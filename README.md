@@ -51,7 +51,7 @@ The component provides the following variables
 | finished | boolean | false | 是否是最后一页 | 是 |
 | onLoad | function | - | 调取数据接口 | 是 |
 
-### data json format
+### data format
 
 ```
   [{
@@ -61,7 +61,7 @@ The component provides the following variables
 
 ```
 
-### Matching selection components（mobile-magic-scroll-react）示范图片
+### 示范图片
 
 ![image](https://github.com/zhaochengxian/mobile-magic-scroll-react/blob/main/example/assets/demo1.png)
 ![image](https://github.com/zhaochengxian/mobile-magic-scroll-react/blob/main/example/assets/demo2.png)

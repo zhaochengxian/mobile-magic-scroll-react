@@ -43,7 +43,7 @@ The component provides the following variables
 | pullDownSuccessText | string | 刷新成功 | -- | |
 | pullUpText | String | 上拉加载更多 | -- | |
 | loadingText | String | 加载中... | 加载过程中的文字提示 | |
-| finishedText | String | 没有更多了 | 部分选中的 icon,png | |
+| finishedText | String | 没有更多了 | -- | |
 | height | String | 100vh | 滚动区域的高度 | |
 | heightUnit | String | vh | 滚动度高度单位 | |
 | isObserveImage | boolean | false | 是否开启自动计算图片宽高 | |

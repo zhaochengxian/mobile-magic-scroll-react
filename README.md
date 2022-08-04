@@ -68,4 +68,5 @@ The component provides the following variables
 
 ### Matching selection components（mobile-magic-scroll-react）示范图片
 
-![image](https://github.com/zhaochengxian/mobile-magic-scroll-react/blob/16250a33d0dec558739b20ebf475d53008e33f93/examples/assets/demo-img.jpeg)
+![image](https://github.com/zhaochengxian/mobile-magic-scroll-react/blob/main/example/assets/demo1.png)
+![image](https://github.com/zhaochengxian/mobile-magic-scroll-react/blob/main/example/assets/demo2.png)

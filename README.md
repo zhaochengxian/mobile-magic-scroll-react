@@ -19,7 +19,7 @@ yarn add @banyinbanying/mobile-magic-scroll-react or npm i @banyinbanying/mobile
 ### then you add this line in your component or page
 
 ```
-import MobileMagicScrollReact from "@banyinbanying//mobile-magic-scroll-react";
+import MobileMagicScrollReact from "@banyinbanying/mobile-magic-scroll-react";
 
 ```
 

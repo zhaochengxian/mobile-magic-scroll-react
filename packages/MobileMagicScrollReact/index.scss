@@ -1,0 +1,32 @@
+.mobile-magic-scroll-react {
+  overflow: auto;
+  &-wrapper {
+    height: 100%;
+    padding: 0 10px;
+    overflow: hidden;
+    font-size: 14px;
+  }
+
+  &-list {
+    padding: 0;
+    height: 100%;
+    overflow: auto;
+  }
+
+  &-tips {
+    padding: 20px;
+    text-align: center;
+    color: #999;
+  }
+
+  .pulldown-wrapper {
+    position: absolute;
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    transform: translateY(-100%) translateZ(0);
+    text-align: center;
+    color: #999;
+    font-size: 14px;
+  }
+}

@@ -39,7 +39,6 @@ The component provides the following variables
 
 | Name | Type | Default Value | Description | 是否必填 |
 | ---- | ---- | ------------- | ----------- | -------- |
-
 | pullDownText | Array | 下拉刷新 | --- | |
 | pullDownSuccessText | string | 刷新成功 | -- | |
 | pullUpText | String | 上拉加载更多 | -- | |
